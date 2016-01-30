@@ -22,3 +22,12 @@
 [submodule "bundle/syntastic"]
 	path = bundle/syntastic
 	url = https://github.com/scrooloose/syntastic.git
+[submodule "bundle/unicode"]
+	path = bundle/unicode
+	url = https://github.com/chrisbra/unicode.vim.git
+[submodule "bundle/airline"]
+	path = bundle/airline
+	url = https://github.com/vim-airline/vim-airline.git
+[submodule "bundle/json"]
+	path = bundle/json
+	url = https://github.com/elzr/vim-json.git
