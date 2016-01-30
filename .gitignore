@@ -38,3 +38,15 @@ doc/latex-suite-quickstart.html
 ## Pathogen (to make it easier to use vim-latex-git)
 doc/tags
 *.pyc
+
+## latex suite
+Makefile
+Makefile.in
+compiler
+doc
+ftplugin
+indent
+latextags
+ltags
+plugin
+vim-latex.metainfo.xml
