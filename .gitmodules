@@ -7,3 +7,6 @@
 [submodule "bundle/dash"]
 	path = bundle/dash
 	url = https://github.com/rizzatti/dash.vim.git
+[submodule "bundle/julia"]
+	path = bundle/julia
+	url = https://github.com/JuliaLang/julia-vim.git
