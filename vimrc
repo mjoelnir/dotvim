@@ -35,3 +35,5 @@ set runtimepath^=~/.vim/bundle/ctrlp.vim
 xmap ga <Plug>(EasyAlign)
 " Start interactive EasyAlign for a motion/text object (e.g. gaip)
 nmap ga <Plug>(EasyAlign)
+let g:ctrlp_map = '<c-p>'
+let g:ctrlp_cmd = 'CtrlP'
